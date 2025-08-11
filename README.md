@@ -4,7 +4,7 @@ This is a professional 3D CAD model classification and segmentation platform dev
 
 这是一个基于PyQt5和PythonOCC开发的专业CAD模型分类与分割平台，集成了先进的深度学习技术（UV-Net），可对STEP格式的CAD模型进行精确分类与分割。
 
-![System Screenshot](screenshot.png)
+![System Screenshot](https://github.com/BrepMaster/3D-CAD-Analysis-System/raw/main/1.png))
 
 📦 **Download (Windows EXE version)**  
 
