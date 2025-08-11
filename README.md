@@ -7,8 +7,10 @@ This is a professional 3D CAD model classification and segmentation platform dev
 ![System Screenshot](screenshot.png)
 
 📦 **Download (Windows EXE version)**  
-链接: [待添加]  
-提取码: [待添加]
+
+链接: https://pan.baidu.com/s/1tFnZHGxATxBZq6O0OMl_VA?pwd=q8xq
+
+提取码: q8xq
 
 **温馨提示**  
 如果本项目对您有所帮助，欢迎点击右上角 ⭐Star 支持！  
